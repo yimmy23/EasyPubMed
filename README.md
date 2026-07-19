@@ -9,9 +9,8 @@
 
 [**如Github网站图片加载出现问题，可访问知乎获取相同内容**](https://zhuanlan.zhihu.com/p/150317440)
 
-> 更新至Version 0.1.23（2025.6.21）：[更新日志](https://github.com/naivenaive/EasyPubMed/blob/master/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md)
-> - 更新最新2025年JCR分区及影响因子
-> - 更新最新2025年中科院分区
+> 更新至Version 0.1.24（2026.7.19）：[更新日志](https://github.com/naivenaive/EasyPubMed/blob/master/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md)
+> - 更新最新2026年JCR分区及影响因子
 > - 展示近五年IF趋势
 > - Reference Manager支持参考文献及附件备份与加载
 > - 一键截屏PubMed网站头部信息
@@ -67,7 +66,7 @@
 - **专为新版PubMed设计的工具条——看摘要、找全文、收藏文献**
   - 一键点击从UnpayWall、Sci-Hub多渠道获取全文PDF，找全文如此简单
   - 一键收集PubMed文章，好文献随时收藏并支持做多种标记，如星价、旗标、贴标签、写备注
-  -  展示最新杂志影响因子（2025年）、JCR分区（2025年）、中科院分区（2025年）及文章被引用次数
+  -  展示最新杂志影响因子（2026年）、JCR分区（2026年）、中科院分区（2025年）及文章被引用次数
   - 获取文章10000+种参考文献引用格式，覆盖绝大多数SCI杂志
   - 一键导出文献，方便导入Endnote
   - PubMed搜索界面展示完整摘要
@@ -376,7 +375,7 @@ EasyPubMed可以帮助从Unpaywall、Sci-hub等多更疲态获取全文。由于
 
 ## 数据来源
 
-采用杂志唯一的ISSN编号将Pubmed数据库杂志信息、2025年JCR报告（SSCI、SCIE）、2025年发布的中科院（CAS）文献情报分区表增强版合并。我们采用Pubmed杂志缩写获取各杂志的影响因子、JCR分区及CAS分区。结果已经过手动核查。由于合并过程可能出现错误，如果您发现数据有误，您可以通过发送邮件到<easypubmed.project@gmail.com>或在<https://github.com/naivenaive/EasyPubMed/issues>中发起新提议以将错误信息报告给我们. 
+采用杂志唯一的ISSN编号将Pubmed数据库杂志信息、2026年JCR报告（SSCI、SCIE）、2025年发布的中科院（CAS）文献情报分区表增强版合并。我们采用Pubmed杂志缩写获取各杂志的影响因子、JCR分区及CAS分区。结果已经过手动核查。由于合并过程可能出现错误，如果您发现数据有误，您可以通过发送邮件到<easypubmed.project@gmail.com>或在<https://github.com/naivenaive/EasyPubMed/issues>中发起新提议以将错误信息报告给我们. 
 
 <p align="right">
 <a href="https://github.com/naivenaive/EasyPubMed/blob/master/EasyPubMed%20User%20Manual.md#data-source">English version: Data source</a>
